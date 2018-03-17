@@ -1,0 +1,13 @@
+C:\Universitate\tezamaster\CarService\bin\Release\netcoreapp2.0\linux-arm\libhostpolicy.so
+C:\Universitate\tezamaster\CarService\bin\Release\netcoreapp2.0\linux-arm\libhostfxr.so
+C:\Universitate\tezamaster\CarService\bin\Release\netcoreapp2.0\linux-arm\CarService
+C:\Universitate\tezamaster\CarService\bin\Release\netcoreapp2.0\linux-arm\CarService.deps.json
+C:\Universitate\tezamaster\CarService\bin\Release\netcoreapp2.0\linux-arm\CarService.runtimeconfig.json
+C:\Universitate\tezamaster\CarService\bin\Release\netcoreapp2.0\linux-arm\CarService.runtimeconfig.dev.json
+C:\Universitate\tezamaster\CarService\bin\Release\netcoreapp2.0\linux-arm\CarService.dll
+C:\Universitate\tezamaster\CarService\bin\Release\netcoreapp2.0\linux-arm\CarService.pdb
+C:\Universitate\tezamaster\CarService\obj\Release\netcoreapp2.0\linux-arm\CarService.csproj.CoreCompileInputs.cache
+C:\Universitate\tezamaster\CarService\obj\Release\netcoreapp2.0\linux-arm\CarService.AssemblyInfoInputs.cache
+C:\Universitate\tezamaster\CarService\obj\Release\netcoreapp2.0\linux-arm\CarService.AssemblyInfo.cs
+C:\Universitate\tezamaster\CarService\obj\Release\netcoreapp2.0\linux-arm\CarService.dll
+C:\Universitate\tezamaster\CarService\obj\Release\netcoreapp2.0\linux-arm\CarService.pdb

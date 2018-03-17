@@ -1,0 +1,10 @@
+C:\Universitate\tezamaster\CarService\bin\CarService.deps.json
+C:\Universitate\tezamaster\CarService\bin\CarService.runtimeconfig.json
+C:\Universitate\tezamaster\CarService\bin\CarService.runtimeconfig.dev.json
+C:\Universitate\tezamaster\CarService\bin\CarService.dll
+C:\Universitate\tezamaster\CarService\bin\CarService.pdb
+C:\Universitate\tezamaster\CarService\obj\Release\netcoreapp2.0\CarService.csproj.CoreCompileInputs.cache
+C:\Universitate\tezamaster\CarService\obj\Release\netcoreapp2.0\CarService.AssemblyInfoInputs.cache
+C:\Universitate\tezamaster\CarService\obj\Release\netcoreapp2.0\CarService.AssemblyInfo.cs
+C:\Universitate\tezamaster\CarService\obj\Release\netcoreapp2.0\CarService.dll
+C:\Universitate\tezamaster\CarService\obj\Release\netcoreapp2.0\CarService.pdb

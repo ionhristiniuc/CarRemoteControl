@@ -1,0 +1,49 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Car Remote Control Client App</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <h2>Welcome to Car Remote Control Client App!</h2>
+  <p>
+    <ion-grid>
+      <ion-row>
+        <ion-col col-5></ion-col>
+        <ion-col col-2>
+          <button (press)="moveForward()" (touchend)="stopMoving()" ion-button color="light" icon-only>
+            <ion-icon name='arrow-up'></ion-icon>
+          </button>
+        </ion-col>
+        <ion-col col-5></ion-col>
+      </ion-row>
+
+      <ion-row>
+        <ion-col col-3></ion-col>
+        <ion-col col-2>
+          <button (press)="moveLeft()" (touchend)="stopMoving()" ion-button color="light" icon-only>
+            <ion-icon name='arrow-back'></ion-icon>
+          </button>
+        </ion-col>
+        <ion-col col-2></ion-col>
+        <ion-col col-2>
+          <button (press)="moveRight()" (touchend)="stopMoving()" ion-button color="light" icon-only item-right>
+            <ion-icon name='arrow-forward'></ion-icon>
+          </button>
+        </ion-col>
+        <ion-col col-3></ion-col>
+      </ion-row>
+
+      <ion-row>
+        <ion-col col-5></ion-col>
+        <ion-col col-2>
+          <button (press)="moveReverse()" (touchend)="stopMoving()" ion-button color="light" icon-only>
+            <ion-icon name='arrow-down'></ion-icon>
+          </button>
+        </ion-col>
+        <ion-col col-5></ion-col>
+      </ion-row>
+    </ion-grid>
+  </p>
+  <!-- <button ion-button color="danger" clear>Stop</button> -->
+</ion-content>
